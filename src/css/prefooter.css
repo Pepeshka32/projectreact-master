@@ -1,0 +1,243 @@
+.pre-prefooter,
+.pre-prefooter * {
+  box-sizing: border-box;
+}
+.pre-prefooter {
+  
+  height: 745px;
+  position: relative;
+}
+.pre-group-180 {
+  position: absolute;
+  inset: 0;
+}
+.pre-rectangle-657 {
+  background: #d9d9d9;
+  border-radius: 10px;
+  width: 20.31%;
+  height: 11.95%;
+  position: absolute;
+  right: 72.66%;
+  left: 7.03%;
+  bottom: 16.11%;
+  top: 71.95%;
+}
+.pre-rectangle-659 {
+  background: #d9d9d9;
+  border-radius: 10px;
+  width: 42.19%;
+  height: 11.95%;
+  position: absolute;
+  right: 28.91%;
+  left: 28.91%;
+  bottom: 16.11%;
+  top: 71.95%;
+}
+.pre-vector-91 {
+  width: 99.97%;
+  height: 0%;
+  position: absolute;
+  right: 0.03%;
+  left: 0%;
+  bottom: 4.03%;
+  top: 95.97%;
+  overflow: visible;
+}
+.pre-div {
+  color: rgba(35, 31, 32, 0.5);
+  text-align: left;
+  font-family: "Raleway-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  right: 87.45%;
+  left: 9.84%;
+  width: 2.71%;
+  bottom: 19.6%;
+  top: 75.3%;
+  height: 5.1%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.pre-e-mail {
+  color: rgba(35, 31, 32, 0.5);
+  text-align: left;
+  font-family: "Raleway-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  right: 62.92%;
+  left: 32.08%;
+  width: 5%;
+  bottom: 19.6%;
+  top: 75.3%;
+  height: 5.1%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.pre-div2 {
+  color: #231f20;
+  text-align: center;
+  font-family: "Raleway-Bold", sans-serif;
+  font-size: 28px;
+  font-weight: 700;
+  position: absolute;
+  right: 12.29%;
+  left: 12.24%;
+  width: 75.47%;
+  bottom: 54.36%;
+  top: 41.21%;
+  height: 4.43%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.pre-10-email {
+  color: #231f20;
+  text-align: center;
+  font-family: "Raleway-Regular", sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  position: absolute;
+  right: 12.76%;
+  left: 14.32%;
+  width: 72.92%;
+  bottom: 37.72%;
+  top: 49.8%;
+  height: 12.48%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.pre-group-179 {
+  position: absolute;
+  inset: 0;
+}
+.pre-rectangle-656 {
+  background: #ffffff;
+  width: 1920%;
+  height: 32.48%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 67.52%;
+  top: 0%;
+  box-shadow: 0px 4px 6px 0px rgba(0, 0, 0, 0.25);
+}
+.pre-div3 {
+  color: #231f20;
+  text-align: justified;
+  font-family: "Raleway-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  right: 67.92%;
+  left: 9.84%;
+  width: 22.24%;
+  bottom: 74.77%;
+  top: 20.13%;
+  height: 5.1%;
+  display: flex;
+  align-items: center;
+}
+.pre-div4 {
+  color: #231f20;
+  text-align: justified;
+  font-family: "Raleway-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  right: 38.91%;
+  left: 38.91%;
+  width: 22.19%;
+  bottom: 73.56%;
+  top: 18.79%;
+  height: 7.65%;
+  display: flex;
+  align-items: center;
+}
+.pre-div5 {
+  color: #231f20;
+  text-align: justified;
+  font-family: "Raleway-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  right: 9.9%;
+  left: 67.92%;
+  width: 22.19%;
+  bottom: 73.56%;
+  top: 18.79%;
+  height: 7.65%;
+  display: flex;
+  align-items: center;
+}
+.pre-group-144 {
+  width: 4.18%;
+  height: 8.49%;
+  position: absolute;
+  right: 77.01%;
+  left: 18.8%;
+  bottom: 83.96%;
+  top: 7.55%;
+  overflow: visible;
+}
+.pre-tdesign-catalog {
+  width: 4.01%;
+  height: 10.34%;
+  position: absolute;
+  right: 19.01%;
+  left: 76.98%;
+  bottom: 83.49%;
+  top: 6.17%;
+  overflow: visible;
+}
+.pre-group-145 {
+  width: 2.97%;
+  height: 8.99%;
+  position: absolute;
+  right: 47.81%;
+  left: 49.22%;
+  bottom: 84.3%;
+  top: 6.71%;
+  overflow: visible;
+}
+.pre-share {
+  width: 20.31%;
+  height: 11.95%;
+  position: absolute;
+  right: 7.4%;
+  left: 72.29%;
+  bottom: 16.11%;
+  top: 71.95%;
+}
+.pre-rectangle-658 {
+  background: #00aaad;
+  border-radius: 10px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.pre-div6 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Raleway-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  right: 26.92%;
+  left: 26.67%;
+  width: 46.41%;
+  bottom: 29.21%;
+  top: 28.09%;
+  height: 42.7%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

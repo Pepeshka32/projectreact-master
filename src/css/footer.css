@@ -1,0 +1,727 @@
+.footer,
+.footer * {
+  box-sizing: border-box;
+}
+.footer {
+  
+  height: 1372px;
+  position: relative;
+}
+.footer-rectangle-656 {
+  background: #00aaad;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.footer-group-144 {
+  position: absolute;
+  inset: 0;
+}
+.footer-image-2 {
+  border-radius: 5px;
+  width: 7.14%;
+  height: 5.83%;
+  position: absolute;
+  right: 85.73%;
+  left: 7.14%;
+  bottom: 7.22%;
+  top: 86.95%;
+  object-fit: cover;
+}
+.footer-image-3 {
+  border-radius: 5px;
+  width: 6.04%;
+  height: 5.9%;
+  position: absolute;
+  right: 77.03%;
+  left: 16.93%;
+  bottom: 7.22%;
+  top: 86.88%;
+  object-fit: cover;
+}
+.footer-image-4 {
+  border-radius: 5px;
+  width: 6.72%;
+  height: 5.83%;
+  position: absolute;
+  right: 67.66%;
+  left: 25.62%;
+  bottom: 7.36%;
+  top: 86.81%;
+  object-fit: cover;
+}
+.footer-group-175 {
+  position: absolute;
+  inset: 0;
+}
+.footer-div {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Raleway-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  right: 78.75%;
+  left: 7.14%;
+  width: 14.11%;
+  bottom: 92.64%;
+  top: 4.59%;
+  height: 2.77%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.footer-div2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Raleway-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  right: 86.46%;
+  left: 7.34%;
+  width: 6.2%;
+  bottom: 86.73%;
+  top: 10.71%;
+  height: 2.55%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.footer-div3 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Raleway-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  right: 88.12%;
+  left: 7.29%;
+  width: 4.58%;
+  bottom: 81.56%;
+  top: 15.89%;
+  height: 2.55%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.footer-div4 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Raleway-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  right: 89.27%;
+  left: 7.24%;
+  width: 3.49%;
+  bottom: 76.75%;
+  top: 20.7%;
+  height: 2.55%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.footer-div5 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Raleway-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  right: 86.3%;
+  left: 7.34%;
+  width: 6.35%;
+  bottom: 71.5%;
+  top: 25.95%;
+  height: 2.55%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.footer-div6 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Raleway-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  right: 80.31%;
+  left: 7.5%;
+  width: 12.19%;
+  bottom: 66.33%;
+  top: 31.12%;
+  height: 2.55%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.footer-div7 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Raleway-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  right: 84.43%;
+  left: 7.4%;
+  width: 8.18%;
+  bottom: 60.57%;
+  top: 36.88%;
+  height: 2.55%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.footer-div8 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Raleway-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  right: 85.57%;
+  left: 7.34%;
+  width: 7.08%;
+  bottom: 54.66%;
+  top: 42.78%;
+  height: 2.55%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.footer-div9 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Raleway-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  right: 85.89%;
+  left: 7.34%;
+  width: 6.77%;
+  bottom: 48.47%;
+  top: 48.98%;
+  height: 2.55%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.footer-div10 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Raleway-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  right: 85.62%;
+  left: 7.29%;
+  width: 7.08%;
+  bottom: 42.27%;
+  top: 55.17%;
+  height: 2.55%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.footer-div11 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Raleway-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  right: 83.44%;
+  left: 7.45%;
+  width: 9.11%;
+  bottom: 35.93%;
+  top: 61.52%;
+  height: 2.55%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.footer-group-176 {
+  position: absolute;
+  inset: 0;
+}
+.footer-div12 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Raleway-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  right: 62.97%;
+  left: 27.66%;
+  width: 9.38%;
+  bottom: 92.64%;
+  top: 4.59%;
+  height: 2.77%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.footer-div13 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Raleway-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  right: 59.38%;
+  left: 27.66%;
+  width: 12.97%;
+  bottom: 86.73%;
+  top: 10.71%;
+  height: 2.55%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.footer-div14 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Raleway-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  right: 52.55%;
+  left: 27.66%;
+  width: 19.79%;
+  bottom: 81.49%;
+  top: 15.96%;
+  height: 2.55%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.footer-div15 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Raleway-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  right: 56.77%;
+  left: 27.66%;
+  width: 15.57%;
+  bottom: 76.6%;
+  top: 20.85%;
+  height: 2.55%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.footer-div16 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Raleway-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  right: 65.26%;
+  left: 27.66%;
+  width: 7.08%;
+  bottom: 71.36%;
+  top: 26.09%;
+  height: 2.55%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.footer-div17 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Raleway-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  right: 52.6%;
+  left: 27.66%;
+  width: 19.74%;
+  bottom: 66.11%;
+  top: 31.34%;
+  height: 2.55%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.footer-group-177 {
+  position: absolute;
+  inset: 0;
+}
+.footer-hyggy {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Raleway-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  right: 41.72%;
+  left: 53.07%;
+  width: 5.21%;
+  bottom: 92.64%;
+  top: 4.59%;
+  height: 2.77%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.footer-div18 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Raleway-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  right: 40.78%;
+  left: 53.18%;
+  width: 6.04%;
+  bottom: 86.73%;
+  top: 10.71%;
+  height: 2.55%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.footer-hyggy2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Raleway-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  right: 35.1%;
+  left: 53.12%;
+  width: 11.77%;
+  bottom: 81.49%;
+  top: 15.96%;
+  height: 2.55%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.footer-div19 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Raleway-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  right: 28.12%;
+  left: 53.18%;
+  width: 18.7%;
+  bottom: 76.6%;
+  top: 20.85%;
+  height: 2.55%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.footer-div20 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Raleway-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  right: 43.39%;
+  left: 53.12%;
+  width: 3.49%;
+  bottom: 71.36%;
+  top: 26.09%;
+  height: 2.55%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.footer-b-2-b {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Raleway-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  right: 44.01%;
+  left: 53.07%;
+  width: 2.92%;
+  bottom: 66.18%;
+  top: 31.27%;
+  height: 2.55%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.footer-div21 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Raleway-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  right: 32.55%;
+  left: 53.18%;
+  width: 14.27%;
+  bottom: 60.28%;
+  top: 37.17%;
+  height: 2.55%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.footer-group-178 {
+  position: absolute;
+  inset: 0;
+}
+.footer-div22 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Raleway-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  right: 8.75%;
+  left: 76.2%;
+  width: 15.05%;
+  bottom: 92.64%;
+  top: 4.59%;
+  height: 2.77%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.footer-21-123456 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Raleway-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  right: 8.49%;
+  left: 76.2%;
+  width: 15.31%;
+  bottom: 81.92%;
+  top: 10.42%;
+  height: 7.65%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.footer-hyggy-b-2-b {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Raleway-Bold", sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  position: absolute;
+  right: 15.1%;
+  left: 76.2%;
+  width: 8.7%;
+  bottom: 72.59%;
+  top: 24.85%;
+  height: 2.55%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.footer-380123456789 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Raleway-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  right: 9.11%;
+  left: 76.2%;
+  width: 14.69%;
+  bottom: 68.22%;
+  top: 29.23%;
+  height: 2.55%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.footer-380123456789-span {
+}
+.footer-380123456789-span2 {
+  text-decoration: underline;
+}
+.footer-b-2-b-hyggy-com {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Raleway-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  right: 6.98%;
+  left: 76.2%;
+  width: 16.82%;
+  bottom: 64.65%;
+  top: 32.8%;
+  height: 2.55%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.footer-div23 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Raleway-SemiBold", sans-serif;
+  font-size: 30px;
+  font-weight: 600;
+  text-decoration: underline;
+  position: absolute;
+  right: 10.52%;
+  left: 76.2%;
+  width: 13.28%;
+  bottom: 60.86%;
+  top: 36.59%;
+  height: 2.55%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.footer-div24 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  right: 9.74%;
+  left: 76.2%;
+  width: 14.06%;
+  bottom: 54.96%;
+  top: 42.49%;
+  height: 2.55%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.footer-div-24-span {
+  font-family: "Raleway-SemiBold", sans-serif;
+  font-weight: 600;
+  text-decoration: underline;
+}
+.footer-div-24-span2 {
+  font-family: "Raleway-Bold", sans-serif;
+  font-weight: 700;
+}
+.footer-email-hyggy-com {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Raleway-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  right: 10.62%;
+  left: 76.2%;
+  width: 13.18%;
+  bottom: 50.73%;
+  top: 46.72%;
+  height: 2.55%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.footer-3801234567892 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Raleway-Regular", sans-serif;
+  font-size: 30px;
+  font-weight: 400;
+  position: absolute;
+  right: 9.53%;
+  left: 76.2%;
+  width: 14.27%;
+  bottom: 47.23%;
+  top: 50.22%;
+  height: 2.55%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.footer-3801234567892-span {
+}
+.footer-3801234567892-span2 {
+  text-decoration: underline;
+}
+.footer-div25 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Raleway-SemiBold", sans-serif;
+  font-size: 30px;
+  font-weight: 600;
+  text-decoration: underline;
+  position: absolute;
+  right: 10.52%;
+  left: 76.2%;
+  width: 13.28%;
+  bottom: 43.66%;
+  top: 53.79%;
+  height: 2.55%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.footer-networks {
+  width: 25.11%;
+  height: 4.88%;
+  position: absolute;
+  right: 7.03%;
+  left: 67.86%;
+  bottom: 7.22%;
+  top: 87.9%;
+  overflow: visible;
+}
+@media (max-width: 320px) {
+  .footer {
+    height: auto;
+    padding: 20px 0;
+  }
+  
+  .footer-rectangle-656 {
+    position: relative;
+    height: auto;
+    padding: 20px;
+  }
+  
+  .footer-image-2, 
+  .footer-image-3, 
+  .footer-image-4 {
+    width: 30px;
+    height: 30px;
+    position: static;
+    display: inline-block;
+    margin: 5px;
+  }
+  
+  .footer-div,
+  .footer-div2,
+  .footer-div3,
+  .footer-div12,
+  .footer-div13,
+  .footer-hyggy,
+  .footer-div22 {
+    font-size: 16px;
+    position: static;
+    width: 100%;
+    padding: 5px 10px;
+    height: auto;
+  }
+  
+  .footer-networks {
+    width: 100%;
+    position: static;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  /* Остальные стили для мобильной версии footer */
+}
