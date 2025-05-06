@@ -241,3 +241,27 @@
   align-items: center;
   justify-content: center;
 }
+
+@media (max-width: 320px) {
+.pre-prefooter{
+  width: 360px;
+}
+.pre-rectangle-656{
+  width: 360px;
+  height: 280px;
+
+}
+.pre-group-144{
+  
+
+  
+}
+.pre-group-145{
+
+}
+
+.pre-tdesign-catalog{
+
+}
+
+}

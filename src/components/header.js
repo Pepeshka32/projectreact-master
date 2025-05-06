@@ -5,11 +5,19 @@ export function Header() {
     <div className="header">
       <meta name="viewport" content="width=device-width, initial-scale=1.0"></meta>
       <div className="rectangle-656"></div>
-      <div className="rectangle-657"></div>
+      <div className="rectangle-657">
+
       <img className="image2" src="image.png" alt="logo" />
-      <div className="rectangle-658"></div>
-      <div className="div5">Пошук...</div>
-      <img className="vector" src="vector5.png" alt="search icon" />
+              <div className="rectangle-658 ">
+          <a href="/catalog "><p className="text-658">Пошук...</p></a>
+
+        </div>
+        <img className="vector" src="vector5.png" alt="search icon" />     </div>
+
+
+
+
+
       <div className="blog">
         <div className="rectangle-10"></div>
         <div className="div6">Блог</div>
@@ -42,7 +50,7 @@ export function Header() {
         <img className="group-1622" src="group 162.png" alt="menu icon" />
         <div className="div13">Меню</div>
       </div>
-      
+
       <div className="group-200">
         <div className="hyggy2">HYGGY Київ ТЦ Променада</div>
         <img className="group-199" src="group 199.png" alt="location icon" />

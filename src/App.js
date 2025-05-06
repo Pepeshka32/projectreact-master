@@ -4,6 +4,7 @@ import '../src/css/prefooter.css';
 import '../src/css/footer.css';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import { Header } from './components/header.js';
+import {CatalogMain} from './components/catalogmain.js'
 import { AboutUs } from './components/abous us.js';
 import { Conection } from './components/connection.js';
 import { Main } from './components/main.js';

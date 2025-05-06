@@ -682,7 +682,8 @@
 }
 @media (max-width: 320px) {
   .footer {
-    height: auto;
+    
+    width: 360px;
     padding: 20px 0;
   }
   
@@ -696,7 +697,7 @@
   .footer-image-3, 
   .footer-image-4 {
     width: 30px;
-    height: 30px;
+    height: 10px;
     position: static;
     display: inline-block;
     margin: 5px;
