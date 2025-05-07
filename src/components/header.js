@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from 'react-router-dom';
 
 export function Header() {
   return (
@@ -6,21 +7,16 @@ export function Header() {
       <meta name="viewport" content="width=device-width, initial-scale=1.0"></meta>
       <div className="rectangle-656"></div>
       <div className="rectangle-657">
-
-      <img className="image2" src="image.png" alt="logo" />
-              <div className="rectangle-658 ">
-          <a href="/catalog "><p className="text-658">Пошук...</p></a>
-
+        <img className="image2" src="image.png" alt="logo" />
+        <div className="rectangle-658">
+          <Link to="/catalog"><p className="text-658">Пошук...</p></Link>
         </div>
-        <img className="vector" src="vector5.png" alt="search icon" />     </div>
-
-
-
-
+        <img className="vector" src="vector5.png" alt="search icon" />
+      </div>
 
       <div className="blog">
         <div className="rectangle-10"></div>
-        <div className="div6">Блог</div>
+        <Link to="/blog" className="div6">Блог</Link>
       </div>
       <div className="shop">
         <div className="rectangle-11"></div>
@@ -28,7 +24,7 @@ export function Header() {
       </div>
       <div className="qa">
         <div className="rectangle-12"></div>
-        <div className="div8">Питання-відповідь</div>
+        <Link to="/qa" className="div8">Питання-відповідь</Link>
       </div>
       <div className="work">
         <div className="rectangle-47"></div>
