@@ -1,0 +1,70 @@
+.div,
+.div * {
+  box-sizing: border-box;
+}
+.div {
+  background: #f3f3f3;
+  height: 4005px;
+  position: relative;
+  overflow: hidden;
+}
+.image {
+  width: 1548px;
+  height: 936px;
+  position: absolute;
+  left: 172px;
+  top: 368px;
+  object-fit: cover;
+}
+.bl-div2 {
+  color: #231f20;
+  text-align: center;
+  font-family: "Raleway-Bold", sans-serif;
+  font-size: 64px;
+  font-weight: 700;
+  position: absolute;
+  left: 172px;
+  top: 1339px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.bl-hyggy {
+  color: #231f20;
+  text-align: justified;
+  font-family: "Raleway-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 176px;
+  top: 1449px;
+  width: 1544px;
+  display: flex;
+  align-items: center;
+}
+.bl-div3 {
+  color: #231f20;
+  text-align: justified;
+  font-family: "Raleway-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 176px;
+  top: 1862px;
+  width: 1544px;
+  display: flex;
+  align-items: center;
+}
+.bl-div4 {
+  color: #231f20;
+  text-align: justified;
+  font-family: "Raleway-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 176px;
+  top: 2245px;
+  width: 1544px;
+  display: flex;
+  align-items: center;
+}

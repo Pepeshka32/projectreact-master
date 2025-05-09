@@ -48,7 +48,7 @@ export function Header() {
       </div>
 
       <div className="group-200">
-        <div className="hyggy2">HYGGY Київ ТЦ Променада</div>
+        <Link to="/" className="hyggy2">HYGGY Київ ТЦ Променада</Link>
         <img className="group-199" src="group 199.png" alt="location icon" />
       </div>
     </div>

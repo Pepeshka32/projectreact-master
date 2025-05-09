@@ -5,8 +5,6 @@ export function Main() {
     <div className="main-div">
       <meta name="viewport" content="width=device-width, initial-scale=1.0"></meta>
       <div className="main-rectangle-22"></div>
-      <img className="main-vector-2" src="vector-20.svg" />
-      <img className="main-vector-3" src="vector-30.svg" />
       <img className="main-image" src="image 0.png" />
       <div className="main-rectangle-15"></div>
       <img className="main-image2" src="image (8).png" />
@@ -70,7 +68,7 @@ export function Main() {
       </div>
       <div className="main-gallery">
         <div className="main-group-181">
-          <img className="main-image12" src="image (11).png" />
+          <img className="main-image12" src="image (12).png" />
           <div className="main-rectangle-29"></div>
           <div className="main-div17">
             Вибір меблів для вашого будинку – це не тільки питання стилю, але й
@@ -82,24 +80,12 @@ export function Main() {
             Створіть Затишний Дім: 5 Порад з Вибору Меблів для Різних Кімнат
           </div>
         </div>
-        <div className="main-group-182">
-          <img className="main-image12" src="image (12).png" />
-          <div className="main-rectangle-30"></div>
-          <div className="main-div18">
-            Освітлення відіграє ключову роль у створенні комфортної атмосфери у
-            вашому будинку. Правильно підібране освітлення не тільки підкреслює
-            стиль інтер'єру, але й впливає на ваш настрій. Ми розповімо, як
-            вибрати освітлення для кожної кімнати вашого будинку, щоб створити
-            ідеальну атмосферу.
-          </div>
-          <div className="main-div19">
-            Як Правильно Вибрати Освітлення для Різних Кімнат Вашої оселі
-          </div>
-        </div>
+
+
 
 
         <div className="main-group-184">
-          <img className="main-image12" src="image (14).png" />
+          <img className="main-image12" src="image (11).png" />
           <div className="main-rectangle-312"></div>
           <div className="main-2024">
             Меблевий дизайн не стоїть на місці, і щороку з'являються нові
