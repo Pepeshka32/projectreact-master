@@ -1,0 +1,15 @@
+.div,
+.div * {
+  box-sizing: border-box;
+}
+.in-div {
+  background: #f3f3f3;
+  height: 300px;
+  position: relative;
+  overflow: hidden;
+}
+
+.path1{
+margin-left: 10px;
+
+}
