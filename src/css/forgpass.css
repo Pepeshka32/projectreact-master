@@ -1,0 +1,137 @@
+.div-pss,
+.div-pss * {
+  box-sizing: border-box;
+}
+
+.div-pss {
+  background: #f3f3f3;
+  height: 2721px;
+  position: relative;
+  overflow: hidden;
+}
+
+
+.input-field-pss {
+  background: #e0e0e0;
+  border-radius: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  width: 810px;
+  height: 95px;
+  position: absolute;
+  left: 555px;
+  top: 729px;
+  padding: 0 20px;
+  font-family: "Raleway-Regular", sans-serif;
+  font-size: 32px;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+
+
+
+.div2-pss {
+  color: #000000;
+  text-align: center;
+  font-family: "Raleway-Bold", sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  position: absolute;
+  left: 772px;
+  top: 440px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.rectangle-44-pss {
+  background: #00aaad;
+  border-radius: 10px;
+  border: 1px solid transparent;
+  width: 810px;
+  height: 95px;
+  position: absolute;
+  left: 555px;
+  top: 896px;
+}
+
+.div3-pss {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Raleway-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 878px;
+  top: 924px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.div4-pss,
+.div5-pss,
+.div6-pss {
+  color: rgba(0, 0, 0, 0.75);
+  text-align: center;
+  font-family: "Raleway-Light", sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  position: absolute;
+  top: 333px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.div4-pss {
+  left: 138px;
+}
+
+.div5-pss {
+  left: 400px;
+}
+
+.div6-pss {
+  left: 629px;
+}
+
+
+
+
+.div7-pss {
+  color: #00aaad;
+  text-align: center;
+  font-family: "Raleway-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: 879px;
+  top: 1034px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.div8-pss {
+  color: #000000;
+  text-align: center;
+  font-family: "Raleway-Light", sans-serif;
+  font-size: 24px;
+  font-weight: 300;
+  position: absolute;
+  left: 275px;
+  top: 593px;
+  width: 1368px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.rectangle-39, .e-mail {
+  display: none;
+}

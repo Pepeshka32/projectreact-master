@@ -1,15 +1,234 @@
-.div,
-.div * {
+.div-in,
+.div-in * {
   box-sizing: border-box;
 }
-.in-div {
+.div-in {
   background: #f3f3f3;
-  height: 300px;
+  height: 3254px;
   position: relative;
   overflow: hidden;
 }
+/* Add these new styles for the input fields */
+.input-field-in {
+  background: #e0e0e0;
+  border-radius: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  width: 810px;
+  height: 95px;
+  position: absolute;
+  left: 555px;
+  padding: 0 20px;
+  font-family: "Raleway-Regular", sans-serif;
+  font-size: 32px;
+  color: rgba(0, 0, 0, 0.5);
+}
 
-.path1{
-margin-left: 10px;
+.email-input-in {
+  top: 586px;
+}
 
+.password-input-in {
+  top: 732px;
+}
+
+
+.rectangle-39-in, .rectangle-43-in, .e-mail-in, .div5-in {
+  display: none;
+}
+
+.div2-in {
+  color: #000000;
+  text-align: center;
+  font-family: "Raleway-Bold", sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  position: absolute;
+  left: 909px;
+  top: 440px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-39-in {
+  background: #e0e0e0;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.5);
+  border-width: 1px;
+  width: 810px;
+  height: 95px;
+  position: absolute;
+  left: 555px;
+  top: 586px;
+}
+.e-mail-in {
+  color: rgba(0, 0, 0, 0.5);
+  text-align: center;
+  font-family: "Raleway-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 606px;
+  top: 615px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-43-in {
+  background: #e0e0e0;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.5);
+  border-width: 1px;
+  width: 810px;
+  height: 95px;
+  position: absolute;
+  left: 555px;
+  top: 732px;
+}
+.rectangle-44-in {
+  background: #00aaad;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: transparent;
+  border-width: 1px;
+  width: 810px;
+  height: 95px;
+  position: absolute;
+  left: 555px;
+  top: 878px;
+}
+.div3-in {
+  color: #000000;
+  text-align: center;
+  font-family: "Raleway-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 700px;
+  top: 1169px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.group-161-in {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-45-in {
+  background: #e0e0e0;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: rgba(0, 0, 0, 0.5);
+  border-width: 1px;
+  width: 810px;
+  height: 95px;
+  position: absolute;
+  left: 555px;
+  top: 1603px;
+}
+.div4-in {
+  color: #000000;
+  text-align: center;
+  font-family: "Raleway-Light", sans-serif;
+  font-size: 32px;
+  font-weight: 300;
+  position: absolute;
+  left: 711px;
+  top: 1631px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.div5-in {
+  color: rgba(0, 0, 0, 0.5);
+  text-align: center;
+  font-family: "Raleway-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  position: absolute;
+  left: 609px;
+  top: 761px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.div6-in {
+  color: #00aaad;
+  text-align: center;
+  font-family: "Raleway-Regular", sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  text-decoration: underline;
+  position: absolute;
+  left: 560px;
+  top: 1024px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.div7-in {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Raleway-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 908px;
+  top: 906px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.div8-in {
+  color: #000000;
+  text-align: left;
+  font-family: "Raleway-Regular", sans-serif;
+  font-size: 27px;
+  font-weight: 400;
+  position: absolute;
+  left: 573px;
+  top: 1261px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.div9-in {
+  color: rgba(0, 0, 0, 0.75);
+  text-align: center;
+  font-family: "Raleway-Light", sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  position: absolute;
+  left: 138px;
+  top: 333px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.div10-in {
+  color: rgba(0, 0, 0, 0.75);
+  text-align: center;
+  font-family: "Raleway-Light", sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  position: absolute;
+  left: 400px;
+  top: 333px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.div11-in {
+  color: rgba(0, 0, 0, 0.75);
+  text-align: center;
+  font-family: "Raleway-Light", sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+  position: absolute;
+  left: 629px;
+  top: 333px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }

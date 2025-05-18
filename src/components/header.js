@@ -35,7 +35,7 @@ export function Header() {
         <img className="vector2" src="vector2.png" alt="fav icon" />
       </div>
       <div className="prof">
-      <Link to="/signin" className="div11">Вхід</Link>
+        <Link to="/signin" className="div11">Вхід</Link>
         <img className="vector3" src="vector4.png" alt="profile icon" />
       </div>
       <div className="cart">

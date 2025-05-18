@@ -1,5 +1,4 @@
 import React from "react";
-import { Link } from 'react-router-dom';
 
 export function Footer() {
     return (
@@ -28,10 +27,10 @@ export function Footer() {
             <div className="footer-div16">Доставка</div>
             <div className="footer-div17">Політика конфіденційності</div>
             <div className="footer-hyggy">Hyggy</div>
-            <Link to="/blog" className="footer-div18">Про нас</Link>
+            <div className="footer-div18">Про нас</div>
             <div className="footer-hyggy2">Робота в Hyggy</div>
             <div className="footer-div19">Підписатись на розсилку</div>
-            <Link to="/blog" className="footer-div20">Блог</Link>
+            <div className="footer-div20">Блог</div>
             <div className="footer-b-2-b">B2B</div>
             <div className="footer-div21">Корисні посилання</div>
             <div className="footer-div22">Центральний офіс</div>

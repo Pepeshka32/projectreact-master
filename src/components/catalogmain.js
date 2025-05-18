@@ -40,15 +40,17 @@ export function CatalogMain() {
     <div class="rectangle-479"></div>
     <div class="ellipse-52"></div>
   </div>
-  <div class="div9">
-    <div class="image">
-      <img class="image2" src="image1.png" />
+
+
+  <div class="div18">
+    <div class="image2">
+      <img class="image3" src="image2.png" />
     </div>
     <div class="frame-111">
       <div class="_40">-40%</div>
     </div>
     <div class="frame-112">
-      <div class="div10">Новинка</div>
+      <div class="div19">Новинка</div>
     </div>
     <div class="frame-110">
       <div class="bistrup">BISTRUP</div>
@@ -68,24 +70,24 @@ export function CatalogMain() {
       </div>
       <div class="frame-108">
         <div class="ellipse-2"></div>
-        <div class="div11">Доставка</div>
+        <div class="div20">Доставка</div>
       </div>
       <div class="frame-109">
         <div class="ellipse-3"></div>
-        <div class="div11">В наявності</div>
+        <div class="div20">В наявності</div>
       </div>
     </div>
     <img class="heart" src="heart0.svg" />
   </div>
-  <div class="div12">
-    <div class="image">
-      <img class="image2" src="image3.png" />
+  <div class="div21">
+    <div class="image2">
+      <img class="image3" src="image4.png" />
     </div>
     <div class="frame-111">
       <div class="_40">-40%</div>
     </div>
     <div class="frame-112">
-      <div class="div10">Новинка</div>
+      <div class="div19">Новинка</div>
     </div>
     <div class="frame-110">
       <div class="bistrup">BISTRUP</div>
@@ -105,24 +107,24 @@ export function CatalogMain() {
       </div>
       <div class="frame-108">
         <div class="ellipse-2"></div>
-        <div class="div11">Доставка</div>
+        <div class="div20">Доставка</div>
       </div>
       <div class="frame-109">
         <div class="ellipse-3"></div>
-        <div class="div11">В наявності</div>
+        <div class="div20">В наявності</div>
       </div>
     </div>
     <img class="heart2" src="heart1.svg" />
   </div>
-  <div class="div13">
-    <div class="image">
-      <img class="image3" src="image5.png" />
+  <div class="div22">
+    <div class="image2">
+      <img class="image4" src="image6.png" />
     </div>
     <div class="frame-111">
       <div class="_40">-40%</div>
     </div>
     <div class="frame-1122">
-      <div class="div10">Чудова пропозиця</div>
+      <div class="div19">Чудова пропозиця</div>
     </div>
     <div class="frame-110">
       <div class="bistrup3">RYPESTARR</div>
@@ -142,18 +144,18 @@ export function CatalogMain() {
       </div>
       <div class="frame-108">
         <div class="ellipse-2"></div>
-        <div class="div11">Доставка</div>
+        <div class="div20">Доставка</div>
       </div>
       <div class="frame-109">
         <div class="ellipse-3"></div>
-        <div class="div11">В наявності</div>
+        <div class="div20">В наявності</div>
       </div>
     </div>
     <img class="heart3" src="heart2.svg" />
   </div>
-  <div class="div14">
-    <div class="image">
-      <img class="image2" src="image7.png" />
+  <div class="div23">
+    <div class="image2">
+      <img class="image3" src="image8.png" />
     </div>
     <div class="frame-110">
       <div class="bistrup3">BISTRUP</div>
@@ -173,24 +175,24 @@ export function CatalogMain() {
       </div>
       <div class="frame-108">
         <div class="ellipse-2"></div>
-        <div class="div11">Доставка</div>
+        <div class="div20">Доставка</div>
       </div>
       <div class="frame-109">
         <div class="ellipse-3"></div>
-        <div class="div11">В наявності</div>
+        <div class="div20">В наявності</div>
       </div>
     </div>
     <img class="heart4" src="heart3.svg" />
   </div>
-  <div class="div15">
-    <div class="image">
-      <img class="image2" src="image9.png" />
+  <div class="div24">
+    <div class="image2">
+      <img class="image3" src="image10.png" />
     </div>
     <div class="frame-111">
       <div class="_40">-40%</div>
     </div>
     <div class="frame-112">
-      <div class="div10">Новинка</div>
+      <div class="div19">Новинка</div>
     </div>
     <div class="frame-110">
       <div class="bistrup3">JULIUS</div>
@@ -212,18 +214,18 @@ export function CatalogMain() {
       </div>
       <div class="frame-108">
         <div class="ellipse-2"></div>
-        <div class="div11">Доставка</div>
+        <div class="div20">Доставка</div>
       </div>
       <div class="frame-109">
         <div class="ellipse-3"></div>
-        <div class="div11">В наявності</div>
+        <div class="div20">В наявності</div>
       </div>
     </div>
     <img class="heart5" src="heart4.svg" />
   </div>
-  <div class="div16">
-    <div class="image">
-      <img class="image3" src="image11.png" />
+  <div class="div25">
+    <div class="image2">
+      <img class="image4" src="image12.png" />
     </div>
     <div class="frame-110">
       <div class="bistrup3">FLADSTJERNE</div>
@@ -243,24 +245,24 @@ export function CatalogMain() {
       </div>
       <div class="frame-108">
         <div class="ellipse-2"></div>
-        <div class="div11">Доставка</div>
+        <div class="div20">Доставка</div>
       </div>
       <div class="frame-109">
         <div class="ellipse-3"></div>
-        <div class="div11">В наявності</div>
+        <div class="div20">В наявності</div>
       </div>
     </div>
     <img class="heart6" src="heart5.svg" />
   </div>
-  <div class="div17">
-    <div class="image">
-      <img class="image3" src="image13.png" />
+  <div class="div26">
+    <div class="image2">
+      <img class="image4" src="image14.png" />
     </div>
     <div class="frame-111">
       <div class="_40">-40%</div>
     </div>
     <div class="frame-112">
-      <div class="div10">Новинка</div>
+      <div class="div19">Новинка</div>
     </div>
     <div class="frame-110">
       <div class="bistrup3">VEJLBY</div>
@@ -280,24 +282,24 @@ export function CatalogMain() {
       </div>
       <div class="frame-108">
         <div class="ellipse-2"></div>
-        <div class="div11">Доставка</div>
+        <div class="div20">Доставка</div>
       </div>
       <div class="frame-109">
         <div class="ellipse-3"></div>
-        <div class="div11">В наявності</div>
+        <div class="div20">В наявності</div>
       </div>
     </div>
     <img class="heart7" src="heart6.svg" />
   </div>
-  <div class="div18">
-    <div class="image">
-      <img class="image2" src="image15.png" />
+  <div class="div27">
+    <div class="image2">
+      <img class="image3" src="image16.png" />
     </div>
     <div class="frame-111">
       <div class="_40">-40%</div>
     </div>
     <div class="frame-112">
-      <div class="div10">Новинка</div>
+      <div class="div19">Новинка</div>
     </div>
     <div class="frame-110">
       <div class="bistrup3">TARDRUP</div>
@@ -317,24 +319,24 @@ export function CatalogMain() {
       </div>
       <div class="frame-108">
         <div class="ellipse-2"></div>
-        <div class="div11">Доставка</div>
+        <div class="div20">Доставка</div>
       </div>
       <div class="frame-109">
         <div class="ellipse-3"></div>
-        <div class="div11">В наявності</div>
+        <div class="div20">В наявності</div>
       </div>
     </div>
     <img class="heart8" src="heart7.svg" />
   </div>
-  <div class="div19">
-    <div class="image">
-      <img class="image2" src="image17.png" />
+  <div class="div28">
+    <div class="image2">
+      <img class="image3" src="image18.png" />
     </div>
     <div class="frame-111">
       <div class="_40">-40%</div>
     </div>
     <div class="frame-112">
-      <div class="div10">Новинка</div>
+      <div class="div19">Новинка</div>
     </div>
     <div class="frame-110">
       <div class="bistrup">BISTRUP</div>
@@ -354,24 +356,24 @@ export function CatalogMain() {
       </div>
       <div class="frame-108">
         <div class="ellipse-2"></div>
-        <div class="div11">Доставка</div>
+        <div class="div20">Доставка</div>
       </div>
       <div class="frame-109">
         <div class="ellipse-3"></div>
-        <div class="div11">В наявності</div>
+        <div class="div20">В наявності</div>
       </div>
     </div>
     <img class="heart9" src="heart8.svg" />
   </div>
-  <div class="div20">
-    <div class="image">
-      <img class="image2" src="image19.png" />
+  <div class="div29">
+    <div class="image2">
+      <img class="image3" src="image20.png" />
     </div>
     <div class="frame-111">
       <div class="_40">-40%</div>
     </div>
     <div class="frame-112">
-      <div class="div10">Новинка</div>
+      <div class="div19">Новинка</div>
     </div>
     <div class="frame-110">
       <div class="bistrup">BISTRUP</div>
@@ -391,24 +393,24 @@ export function CatalogMain() {
       </div>
       <div class="frame-108">
         <div class="ellipse-2"></div>
-        <div class="div11">Доставка</div>
+        <div class="div20">Доставка</div>
       </div>
       <div class="frame-109">
         <div class="ellipse-3"></div>
-        <div class="div11">В наявності</div>
+        <div class="div20">В наявності</div>
       </div>
     </div>
     <img class="heart10" src="heart9.svg" />
   </div>
-  <div class="div21">
-    <div class="image">
-      <img class="image3" src="image21.png" />
+  <div class="div30">
+    <div class="image2">
+      <img class="image4" src="image22.png" />
     </div>
     <div class="frame-111">
       <div class="_40">-40%</div>
     </div>
     <div class="frame-1122">
-      <div class="div10">Чудова пропозиця</div>
+      <div class="div19">Чудова пропозиця</div>
     </div>
     <div class="frame-110">
       <div class="bistrup3">RYPESTARR</div>
@@ -428,18 +430,18 @@ export function CatalogMain() {
       </div>
       <div class="frame-108">
         <div class="ellipse-2"></div>
-        <div class="div11">Доставка</div>
+        <div class="div20">Доставка</div>
       </div>
       <div class="frame-109">
         <div class="ellipse-3"></div>
-        <div class="div11">В наявності</div>
+        <div class="div20">В наявності</div>
       </div>
     </div>
     <img class="heart11" src="heart10.svg" />
   </div>
-  <div class="div22">
-    <div class="image">
-      <img class="image2" src="image23.png" />
+  <div class="div31">
+    <div class="image2">
+      <img class="image3" src="image24.png" />
     </div>
     <div class="frame-110">
       <div class="bistrup3">BISTRUP</div>
@@ -459,24 +461,24 @@ export function CatalogMain() {
       </div>
       <div class="frame-108">
         <div class="ellipse-2"></div>
-        <div class="div11">Доставка</div>
+        <div class="div20">Доставка</div>
       </div>
       <div class="frame-109">
         <div class="ellipse-3"></div>
-        <div class="div11">В наявності</div>
+        <div class="div20">В наявності</div>
       </div>
     </div>
     <img class="heart12" src="heart11.svg" />
   </div>
-  <div class="div23">
-    <div class="image">
-      <img class="image2" src="image25.png" />
+  <div class="div32">
+    <div class="image2">
+      <img class="image3" src="image26.png" />
     </div>
     <div class="frame-111">
       <div class="_40">-40%</div>
     </div>
     <div class="frame-112">
-      <div class="div10">Новинка</div>
+      <div class="div19">Новинка</div>
     </div>
     <div class="frame-110">
       <div class="bistrup3">JULIUS</div>
@@ -498,18 +500,18 @@ export function CatalogMain() {
       </div>
       <div class="frame-108">
         <div class="ellipse-2"></div>
-        <div class="div11">Доставка</div>
+        <div class="div20">Доставка</div>
       </div>
       <div class="frame-109">
         <div class="ellipse-3"></div>
-        <div class="div11">В наявності</div>
+        <div class="div20">В наявності</div>
       </div>
     </div>
     <img class="heart13" src="heart12.svg" />
   </div>
-  <div class="div24">
-    <div class="image">
-      <img class="image3" src="image27.png" />
+  <div class="div33">
+    <div class="image2">
+      <img class="image4" src="image28.png" />
     </div>
     <div class="frame-110">
       <div class="bistrup3">FLADSTJERNE</div>
@@ -529,24 +531,24 @@ export function CatalogMain() {
       </div>
       <div class="frame-108">
         <div class="ellipse-2"></div>
-        <div class="div11">Доставка</div>
+        <div class="div20">Доставка</div>
       </div>
       <div class="frame-109">
         <div class="ellipse-3"></div>
-        <div class="div11">В наявності</div>
+        <div class="div20">В наявності</div>
       </div>
     </div>
     <img class="heart14" src="heart13.svg" />
   </div>
-  <div class="div25">
-    <div class="image">
-      <img class="image3" src="image29.png" />
+  <div class="div34">
+    <div class="image2">
+      <img class="image4" src="image30.png" />
     </div>
     <div class="frame-111">
       <div class="_40">-40%</div>
     </div>
     <div class="frame-112">
-      <div class="div10">Новинка</div>
+      <div class="div19">Новинка</div>
     </div>
     <div class="frame-110">
       <div class="bistrup3">VEJLBY</div>
@@ -566,24 +568,24 @@ export function CatalogMain() {
       </div>
       <div class="frame-108">
         <div class="ellipse-2"></div>
-        <div class="div11">Доставка</div>
+        <div class="div20">Доставка</div>
       </div>
       <div class="frame-109">
         <div class="ellipse-3"></div>
-        <div class="div11">В наявності</div>
+        <div class="div20">В наявності</div>
       </div>
     </div>
     <img class="heart15" src="heart14.svg" />
   </div>
-  <div class="div26">
-    <div class="image">
-      <img class="image2" src="image31.png" />
+  <div class="div35">
+    <div class="image2">
+      <img class="image3" src="image32.png" />
     </div>
     <div class="frame-111">
       <div class="_40">-40%</div>
     </div>
     <div class="frame-112">
-      <div class="div10">Новинка</div>
+      <div class="div19">Новинка</div>
     </div>
     <div class="frame-110">
       <div class="bistrup3">TARDRUP</div>
@@ -603,27 +605,30 @@ export function CatalogMain() {
       </div>
       <div class="frame-108">
         <div class="ellipse-2"></div>
-        <div class="div11">Доставка</div>
+        <div class="div20">Доставка</div>
       </div>
       <div class="frame-109">
         <div class="ellipse-3"></div>
-        <div class="div11">В наявності</div>
+        <div class="div20">В наявності</div>
       </div>
     </div>
     <img class="heart16" src="heart15.svg" />
   </div>
+
+
+
+
   <div class="component-1">
     <div class="rectangle-4792"></div>
-    <div class="div27">Всі фільтри</div>
+    <div class="div67">Всі фільтри</div>
   </div>
   <div class="group-189">
     <div class="frame-122">
-      <div class="div28">Ціна</div>
+      <div class="div68">Ціна</div>
       <img class="vector-14" src="vector-140.svg" />
     </div>
   </div>
 </div>
-
 
   );
 }

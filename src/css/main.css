@@ -8,8 +8,7 @@
   width: 100%;
   height: 3500px;
   
-  position: absolute;
-  
+
   
 }
 
@@ -703,7 +702,9 @@ width: 100%;}
 
 @media (max-width: 360px) {
   .main-div {
-width: 360%;
+    height: 100%;
+
+    
     
 
   }
