@@ -8,7 +8,9 @@ import { Prefooter } from './components/prefooter.js';
 import { Footer } from './components/footer.js';
 import { Blog } from './components/blog.js';
 import { Signin } from './components/signin.js';
-import { Forgotpassword } from './components/forgpass.js'
+import { Forgotpassword } from './components/forgpass.js';
+import { Repassword } from './components/reppass.js';
+import { Done } from './components/done.js'
 
 import '../src/css/header.css';
 import '../src/css/main.css';
@@ -65,6 +67,18 @@ function App() {
         <Route path="/forgpass" element={
           <>
             <Forgotpassword />
+            <Prefooter />
+            <Footer />
+          </>} />
+        <Route path="/repass" element={
+          <>
+            <Repassword />
+            <Prefooter />
+            <Footer />
+          </>} />
+        <Route path="/done" element={
+          <>
+            <Done />
             <Prefooter />
             <Footer />
           </>} />
