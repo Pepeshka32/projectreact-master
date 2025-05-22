@@ -10,7 +10,10 @@ import { Blog } from './components/blog.js';
 import { Signin } from './components/signin.js';
 import { Forgotpassword } from './components/forgpass.js';
 import { Repassword } from './components/reppass.js';
-import { Done } from './components/done.js'
+import { Done } from './components/done.js';
+import { Done2 } from './components/done2.js';
+import { Registration } from './components/registration.js';
+import { Regacces } from './components/regacces.js'
 
 import '../src/css/header.css';
 import '../src/css/main.css';
@@ -18,8 +21,10 @@ import '../src/css/prefooter.css';
 import '../src/css/footer.css';
 import '../src/css/blog.css';
 import '../src/css/qa.css';
-import '../src/css/signin.css'
-import '../src/css/forgpass.css'
+import '../src/css/signin.css';
+import '../src/css/forgpass.css';
+import '../src/css/registration.css';
+import '../src/css/done2.css'
 
 
 
@@ -79,6 +84,24 @@ function App() {
         <Route path="/done" element={
           <>
             <Done />
+            <Prefooter />
+            <Footer />
+          </>} />
+        <Route path="/done2" element={
+          <>
+            <Done2 />
+            <Prefooter />
+            <Footer />
+          </>} />
+        <Route path="/registration" element={
+          <>
+            <Registration />
+            <Prefooter />
+            <Footer />
+          </>} />
+        <Route path="/regacces" element={
+          <>
+            <Regacces />
             <Prefooter />
             <Footer />
           </>} />
